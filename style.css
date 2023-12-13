@@ -341,7 +341,7 @@ footer p {
  margin-top: 1rem;
 }
 
-@media (max-width: 428px) {
+@media (max-width: 500px) {
   .my-skills-container {
     display: flex;
     flex-direction: column;
